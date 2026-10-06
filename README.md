@@ -16,4 +16,5 @@
  
   IMPORTANT: Sherlock produces investigative LEADS, not proof. Every finding must be verified
   against original bank/provider records and handled under your force's evidence procedures.
- 
+
+ This program is NOT free software. 
