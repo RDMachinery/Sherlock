@@ -13,6 +13,8 @@ Load bank or payment-provider exports and Sherlock will:
 
 It is a single Java file with no dependencies.
 
+Author: Mario Gianota <mariogianota@protonmail.com>
+
 ```
 java Sherlock.java demo demo.csv
 java Sherlock.java demo.csv
