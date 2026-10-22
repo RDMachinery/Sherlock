@@ -1,3 +1,5 @@
+![Banner image](banner.jpeg)
+
 # Sherlock
 
 **A transaction-analysis assistant for investigating online financial crime**: investment scams, romance scams, authorised push payment (APP) fraud, account takeover and money-mule networks.
