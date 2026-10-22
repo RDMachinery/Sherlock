@@ -13,7 +13,7 @@ Load bank or payment-provider exports and Sherlock will:
 
 It is a single Java file with no dependencies.
 
-Author: Mario Gianota <mariogianota@protonmail.com>
+
 
 ```
 java Sherlock.java demo demo.csv
@@ -25,6 +25,7 @@ sherlock> report case.html ACC-VICTIM-01
 
 > **Sherlock produces investigative leads, not proof.** Every finding must be verified against original bank or provider records and handled under your force's evidence procedures.
 
+Author: Mario Gianota <mariogianota@protonmail.com>
 ---
 
 ## What's new in 2.0
